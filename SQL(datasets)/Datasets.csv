@@ -1,0 +1,11 @@
+Product_id, Product_name,category,Price,Quantity
+1,Laptop,Electronics,23000,23
+2,Smatphone,Electronics,348400,21
+3,Headphone,Accessories,343012,78
+4,Office Chair,Furniture,3454560,12
+5,Desk,Furniture,909800,34
+6,Desk,Furniture,200000,34
+7,Table,Furniture,234230,25
+8,Smatphone,Accessories,250000,14
+9,Computer,Electronics,56000,23
+10,Laptop,Electronics,345000,23
